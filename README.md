@@ -1,2 +1,2 @@
-# Cervical-Cancer-Detection-Using-Python
-A deep learning project for cervical cancer detection, classifying cervical cell images into 5 classes. It uses pre-processing techniques like SLIC super pixel segmentation and Canny edge detection, followed by fine-tuning pre-trained CNN models like ResNet50, VGG16, InceptionV3, EfficientNetB0-B7 and MobileNetV2-V3 to compare model performance.
+#Objectives
+This project, developed as part of my capstone work, focuses on classifying cervical cell images into five distinct classes taken from SIPaKMeD database. It involves preprocessing techniques and the application of advanced deep learning models to compare their performance. The project utilizes SLIC-based superpixel segmentation and Canny edge detection for preprocessing cervical cell images, enhancing feature extraction. Several pre-trained convolutional neural network (CNN) models were fine-tuned and evaluated to determine the best-performing model for this task.
